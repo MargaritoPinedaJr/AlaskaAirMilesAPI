@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "cEM5vsnNojxtyxGm7A6VIrfYwWUjZnO58y9UOUT6vKUNPUjd7f2yqtylF7rexVgYVj7wAtl29zWIw4BS6Y63LQ==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Thunder Brick\\Documents\\Coding\\AlaskaAirMilesAPI\\AlaskaAirMilesAPI.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Swashbuckle.AspNetCore. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages",
+      "libraryId": "Swashbuckle.AspNetCore",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}
